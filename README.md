@@ -20,7 +20,7 @@ This application is a stopwatch application. Shows developers how to use the Tim
 <div class="row">
       <div class="column">
 <img width ='82px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Bitcoin/main/Flag_of_the_United_Kingdom.svg'>
+     ='https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg'>
   </div>
 </div>
 
